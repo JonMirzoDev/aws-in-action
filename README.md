@@ -28,7 +28,3 @@ Fully updated to include the latest revisions and updates to AWS; this new editi
 * 15 [Decoupling your infrastructure: Elastic Load Balancing and Amazon Simple Queue Service](./chapter15)
 * 16 [Designing for fault tolerance](./chapter16)
 * 17 [Scaling up and down: auto-scaling and Amazon CloudWatch](./chapter17)
-
-## About the authors
-
-Andreas Wittig and Michael Wittig are software engineers and consultants focused on AWS and web development. They migrated the first bank in Germany to AWS along with other heavily regulated businesses with legacy applications.
